@@ -1,1 +1,2 @@
 
+You'll write a python program to  count the number of each vowel in a string using dictionary and list comprehension. Input should be a sentence and output should shoud be something like this: {'o': 5, 'i': 3, 'a': 2, 'e': 5, 'u': 3}
